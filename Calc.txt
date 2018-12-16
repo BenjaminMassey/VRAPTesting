@@ -1,0 +1,151 @@
+4
+The limit of (cosx+sin(2x)+1)/(x^2-pi^2) as x approaches pi is
+1/(2pi)
+*1/pi
+1
+Nonexistent
+The limit of (9x^4+1)^(1/2)/(x^2-3x+5) as x approaches infinity
+1
+*3
+9
+Nonexistent
+An ice sculpture in the form of a sphere melts in such a way a way that it maintains its spherical shape. The volume of the sphere is decreasing at a constant rate of 2pi cubic meters per hour. At what rate, in square meters per hour, is the surface area of the sphere decreasing at the moment when the radius is 5 meters? (Note: For a sphere of radius r, the surface area is 4pi*r^2 and the volume is (4/3)pi*r^3.)
+*4pi/5
+40pi
+80pi^2
+100pi
+f(x)= 2x-2 for x<3; 2x-4 for x=3. Let f be the piecewise-linear function defined above. Which of the following statements are true? I. The limit from h to 0(from below) of (f(3+h)-f(3))/h = 2; II. The limit from h to 0 (from above) of (f(3+h)-f(3))/h = 2; III. f'(3) = 2
+None
+*II only
+I and II only
+I, II and III
+If The integral from 1 to x^3(1/(1+lnt))dt for x= then f'(2)=
+1/(1+ln2)
+12/(1+ln2)
+1/(1+ln8)
+*12/(1+ln8)
+Which of the following limits is equal to the integral from 3 to 5 of (x^4)dx?
+The limit from n to infinity of the summation starting at k=1 to n  of (3+k/n)^4 1/n
+The limit from n to infinity of the summation starting at k=1 to n of (3+k/n)^4 2/n
+The limit from n to infinity of the summation starting at k=1 to n of(3+2k/n)^4 1/n
+*The limit from n to infinity of the summation starting at k=1 to n of(3+2k/n)^4 2/n
+The temperature of a room, in degrees Fahrenheit, is modeled by H, a differentiable function of the number of minutes after the thermostat is adjusted. Of the following, which is the best interpretation of H'(5)=2
+The temperature of the room is 2 degrees Fahrenheit, 5 minutes after the thermostat is adjusted. 
+The temperature of the room increases by 2 degrees Fahrenheit during the first 5 minutes after the thermostat is adjusted.
+The temperature of the room is increasing at a constant rate of 2/5 degree fahrenheit per minute.
+*The temperature of the room is increasing at a rate of 2 degrees Farenheit per minute, 5 minutes after the thermostat is adjusted.
+A function f is continuous on the closed interval [2,5] with f(2) = 17 and f(5) = 17. Which of the following additional conditions guarantees that there is a number c in the open interval (2,5) such that f'(c)=0?
+No additional conditions are necessary.
+f has a relative extremum on the open interval (2,5).
+*f is differentiable on the open interval (2,5).
+The integral from 2 to 5 of f(x)dx exists.
+The position of a particle moving in the xy-plane is given by the parametric equations x(t)=6t/(t+1) and y(t)=-8/(t^2+4). What is the slope of the line tangent to the path path of the particle at the point where t=2?
+1/2
+2/3
+*3/4
+4/3
+Let y = f(x) be the solution to the differential equation dy/dx=1+2y with the initial condition f(0)=1. What is the approximation for f(1) if Euler's method is used, starting at x=0 with a step size of 0.5?
+2.5
+3.5
+4
+*5.5
+For what value of k, if any, is 0 to infinity of (kxe^(-2x))dx=1?
+1/4
+1
+*4
+There is no such value of k.
+The Taylor series for a function f about x=0 converges to f for -1=x=1. The nth-degree Taylor polynomial for f about x=0 is given by Pn(x) =The summation starting at k=1 to n of (-1)^k(x^k)/(k^2+k+1). Of the following, which is the smallest number M for which the alternating series error bound guarantees that |f(1)-P4(1)|=M?
+1/(5!) 1/31
+1/(4!) 1/21
+*1/31
+1/21
+Which of the following statements about the series the summation starting at n=1 to infinity of ((-1)^n/(1+(n)^1/2)) is true?
+The series converges absolutely.
+*The series converges conditionally.
+The series converges but neither conditionally nor absolutely.
+The series diverges.
+If y=xsin^3 then dy/dx=
+cos^3(x)
+3cos^2(x)
+-3sin^2(x)cosx
+*3sin^2(x)cosx
+The position of a particle moving in the xy-plane is given by the parametric equations x(t)= t^3-3t^2 and y(t)=12t-3t^2. At which point of the following points (x,y) is the particle at rest?
+*(-4,12)
+(-3,6)
+(0,0)
+(3,4)
+The Maclaurin series for the function f is given by f(x) = the summation starting at n=0 to infinity of (-x/4)^n What is the value of f(3)?
+-3
+-3/7
+*4/7
+4
+Which of the following series converge? I. The summation starting at n=1 to infinity of 8^n/n! II. the summation starting at n=1 to infinity of n!/n^100 III. The summation starting at n=1 to infinity of (n+1)/((n)(n+2)(n+3))
+I only
+III only
+*I and III only
+I, II, and III
+The integral from t to 4 of t^(-3/2) dt=
+-1
+-7/8
+1/2
+*1
+Let f be the function defined by f(x)=|x-2|^(1/2) for all x. Which of the following statements is true?
+*f is continuous but not differentiable at x=2
+f is differentiable at x=2
+f is not continuous at x=2
+x=2 is a vertical asymptote of the graph of f.
+The points (-1,-1) and (1,-5) are on the graph of a function y=f(x) that satisfies the differential equation dy/dx=x^2 + y. Which of the following must be true?
+(1,-5) is a local maximum of f.
+(1,-5) is a point of inflection of the graph of f.
+*(-1,-1) is a local maximum of f.
+(-1,-1) is a local minimum of f.
+What is the radius of convergence of the series the summation starting at n=0 to infinity of (x-4)^2n/3^n?
+2(3)^1/2
+3
+*3^1/2
+3^(1/2)/2
+Let k be a positive constant. Which of the following is a logistic differential equation?
+dy/dt=kt
+dy/dt=ky
+dy/dt=kt(1-t)
+*dy/dt=ky(1-y)
+For x>0, the power series 1-x^2/3!+x^4/5!-x^6/7!+....+(-1)^n(x^(2n))/(2n+1)!+... converges to which of the following?
+cosx
+sinx
+*sinx/x
+e^x-e^x^2
+The function f is defined by f(x) = x/(x+2). What points (x,y) on the graph of f have the property that the line tangent to f at (x,y) has slope 1/2?
+(0,0) only
+*(0,0) and (-4,2) 
+(0,0) and (4,2/3)
+There are no such points
+The line y=5 is a horizontal asymptote to the graph of which of the following functions?
+y=sin(5x)/x
+y=5x
+y=5x/(1-x)
+*y=(20x^2-x)/(1+4x^2)
+The power series the summation starting at n=0 to infinity of an(x-3)^n converges at x=5. Which of the following must be true?
+The series diverges at x=0
+The series diverges at x=1
+The series converges at x=1
+*The series converges at x=2
+If P(t) is the size of a population at time t, which of the following differential equations describes linear growth in the size of the population?
+*dP/dt = 200
+dP/dt = 200t
+dP/dt = 100t^2
+dP/dt = 200P
+Let f be a differentiable function such that the integral of f(x)sinxdx = -f(x)cosx + the integral of 4x^3cosxdx. Which of the following could be f(x)?
+cosx
+4x^3
+*x^4
+-x^4
+The integral from 1 to infinity of xe^-x^2 dx is
+-1/e
+*1/2e
+1/e
+2/e
+What is the slope of the line tangent to the polar curve r=1+2sin(o) at o=0?
+2
+*1/2
+0
+-1/2
